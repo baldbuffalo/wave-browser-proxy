@@ -8,5 +8,6 @@
   "dependencies": {
     "express": "5.2.1",
     "puppeteer": "24.38.0"
+    "@sparticuz/chromium": "^143.0.4"
   }
 }
