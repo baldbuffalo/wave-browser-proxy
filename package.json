@@ -1,0 +1,12 @@
+{
+  "name": "wave-browser-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "5.2.1",
+    "puppeteer": "24.38.0"
+  }
+}
